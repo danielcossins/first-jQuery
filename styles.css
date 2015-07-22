@@ -1,0 +1,13 @@
+.pastel {
+  background-color: pink;
+  color: yellow;
+}
+
+.hidden {
+  display:none;
+}
+
+.pretty {
+  background-color: steelblue;
+  color: darkgray;
+}
